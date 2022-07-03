@@ -13,13 +13,13 @@ Before starting the project, I constructed a mind map of the project and intende
 ![j8WxRP.png](https://s1.ax1x.com/2022/07/03/j8WxRP.png)
 
 The software runs with the following interface:\
-软件运行时界面如下：
+软件运行时界面如下：\
 ![j8fZR0.png](https://s1.ax1x.com/2022/07/03/j8fZR0.png)
 
 ## Features not implemented in the current version 当前版本未实现功能
-- Read and write software config 读写配置文件\
-- Nap break length customization 休息时长自定义\
-- Show tomato count 显示番茄次数\
+- Read and write software config 读写配置文件
+- Nap break length customization 休息时长自定义
+- Show tomato count 显示番茄次数
 
 ## 各版本反馈
 Version 1 completion feedback 第一版完成反馈：\
@@ -31,10 +31,10 @@ Basically completed the core functions of the tomato clock, the implementation o
 基本完成了番茄钟核心功能，实现了多线程执行倒计时，Qt实现GUI，基本逻辑漏洞都已修补完毕。待添加功能：界面美化、设置界面、配置文件储存、记录番茄次数、小憩休息功能。\
 
 ## 项目依赖
-Python 3.7+\
-Pyside6(pip install pyside6)\
-Qt material(pip install qt_material)\
-Playsound(pip install playsound)\
+- Python 3.7+\
+- Pyside6(pip install pyside6)
+- Qt material(pip install qt_material)
+- Playsound(pip install playsound)
 
 ## Notice 提示
 This is my first independent project, the code may not be so good, if you have guidance or advice can leave a message, thanks for your support!\
