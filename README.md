@@ -10,10 +10,11 @@ After learning the introductory and advanced Python tutorials, I think I need to
 Before starting the project, I constructed a mind map of the project and intended to use it to implement the functions in steps, the mind map is as follows.
 在开始项目前，我构建了该项目的思维导图，打算以此分步骤实现各功能，思维导图如下：
 
-[![j8WxRP.png](https://s1.ax1x.com/2022/07/03/j8WxRP.png)](https://imgtu.com/i/j8WxRP)
+[![j8WxRP.png](https://s1.ax1x.com/2022/07/03/j8WxRP.png)]
+
 The software runs with the following interface:
 软件运行时界面如下：
-[![j8fZR0.png](https://s1.ax1x.com/2022/07/03/j8fZR0.png)](https://imgtu.com/i/j8fZR0)
+[![j8fZR0.png](https://s1.ax1x.com/2022/07/03/j8fZR0.png)]
 
 ## Features not implemented in the current version 当前版本未实现功能
 - Read and write software config 读写配置文件
