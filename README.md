@@ -24,11 +24,11 @@ The software runs with the following interface:\
 ## 各版本反馈
 Version 1 completion feedback 第一版完成反馈：\
 Implemented the most basic timing function, but using the sleep instruction, during which the program has no way to perform other operations, while needing to implement the time countdown, multi-threading, interface, configuration file storage and other functions. Now start learning PyQt to implement the graphical interface.\
-实现了最基础的定时功能，但是使用的是sleep指令，在这期间程序没办法进行其他操作，同时需要实现时间倒计时、多线程、界面、配置文件储存等功能。现在开始学习PyQt实现图形化界面。\
+实现了最基础的定时功能，但是使用的是sleep指令，在这期间程序没办法进行其他操作，同时需要实现时间倒计时、多线程、界面、配置文件储存等功能。现在开始学习PyQt实现图形化界面。
 
 Version 2 completion feedback 第二版完成反馈：\
 Basically completed the core functions of the tomato clock, the implementation of multi-threaded execution of the countdown, Qt implementation of the GUI, the basic logic vulnerabilities have been fixed. To add features: interface beautification, settings interface, configuration file storage, record the number of tomatoes, nap break function.\
-基本完成了番茄钟核心功能，实现了多线程执行倒计时，Qt实现GUI，基本逻辑漏洞都已修补完毕。待添加功能：界面美化、设置界面、配置文件储存、记录番茄次数、小憩休息功能。\
+基本完成了番茄钟核心功能，实现了多线程执行倒计时，Qt实现GUI，基本逻辑漏洞都已修补完毕。待添加功能：界面美化、设置界面、配置文件储存、记录番茄次数、小憩休息功能。
 
 ## 项目依赖
 - Python 3.7+\
